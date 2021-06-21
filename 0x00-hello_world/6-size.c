@@ -5,7 +5,6 @@
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int x;
@@ -23,11 +22,8 @@ int main(void)
 	printf("Size of a char:%d\n", x);
 	printf("Size of an int:%d\n", y);
 	printf("Size of a long int:%d\n", z);
-	printf("size of a long long int:%d\n", w);
-	printf("size of a float:%d\n", lli);
+	printf("Size of a long long int:%d\n", w);
+	printf("Size of a float:%d\n", lli);
 
 	return (0);
 }
-
-
-
