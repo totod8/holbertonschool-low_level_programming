@@ -1,9 +1,9 @@
 #include "holberton.h"
 
 /*
- * jack_bauer - check the code for Holberton School students.
+ * jack_bauer -  prints every minute of the day
  *
- * Return: Always 0
+ * Return: no return
  */
 void jack_bauer(void)
 {
