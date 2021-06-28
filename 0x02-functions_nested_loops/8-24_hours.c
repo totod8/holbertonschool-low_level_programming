@@ -1,8 +1,8 @@
 #include "holberton.h"
 
-/*
+/**
  * jack_bauer - prints every minute of the day
- *
+ * @void: no parameter
  * Return:  no return
  */
 void jack_bauer(void)

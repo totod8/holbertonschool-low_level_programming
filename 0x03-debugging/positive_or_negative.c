@@ -4,8 +4,8 @@
 #include <time.h>
 
 /**
- * main - return number positive or negative
- *
+ * positive_or_negative- return number positive or negative
+ * @i: parameter
  * Return: 0
  */
 void positive_or_negative(int i)
@@ -22,5 +22,4 @@ void positive_or_negative(int i)
 	{
 		printf("%d is negative\n", i);
 	}
-	
 }
