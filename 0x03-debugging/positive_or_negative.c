@@ -1,10 +1,11 @@
 #include "holberton.h"
 #include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
+#include <time.h>
 
 /**
- * main - positive or negtive
+ * main - return number positive or negative
+ *
  * Return: 0
  */
 void positive_or_negative(int i)
