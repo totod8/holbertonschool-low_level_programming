@@ -1,8 +1,6 @@
 #include "holberton.h"
 #include <stdio.h>
 
-
-
 /**
  * _isupper - checks for uppercase character
  * @c: Variable text
