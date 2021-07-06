@@ -17,7 +17,7 @@ void _puts(char *str)
 	}
 	cont = cont - 1;
 
-	for (i = 0; i <= 62; i++)
+	for (i = 0; i <= cont; i++)
 	{
 		_putchar(str[i]);
 	}
